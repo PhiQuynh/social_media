@@ -1,0 +1,15 @@
+# Cấu hình gửi email
+spring:
+  mail:
+    host: smtp.yourmailhost.com
+    port: 587
+    username: your_email@example.com
+    password: your_email_password
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+#Cấu hình swagger

@@ -1,0 +1,17 @@
+com\example\project\service\LikePostServiceImplTest.class
+com\example\project\service\InformationUserSerViceTest.class
+com\example\project\controller\LikePostControllerTest.class
+com\example\project\controller\CommentControllerTest.class
+com\example\project\service\DatabaseConnectorTest.class
+com\example\project\controller\PostControllerTest.class
+com\example\project\service\FriendServicesImplTest.class
+com\example\project\service\FileDBServiceImplTest.class
+com\example\project\controller\FileControllerTest.class
+com\example\project\controller\FriendControllerTest.class
+com\example\project\service\CommentServiceImplTest.class
+com\example\project\service\ReportServiceImplTest.class
+com\example\project\service\UserServiceImplTest.class
+com\example\project\service\PostServiceImplTest.class
+com\example\project\controller\InfomationUserControllerTest.class
+com\example\project\controller\ReportControllerTest.class
+com\example\project\controller\UserControllerTest.class
